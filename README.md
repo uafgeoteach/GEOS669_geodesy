@@ -15,4 +15,4 @@ On the upper right, click on the "New" drop down menu and select "Terminal". A t
 git clone https://github.com/uafgeoteach/GEOS669_geodesy.git
 ```
 
-Back on the main page (or the tab that contains the directory listing), you should now have a folder called "GEOS669_geodesy". Go in this folder, under "labs" click on "Lab01" and open the lab called "GEOS669-Lab1.ipynb". Follow the instructions and submit the assigment on Canvas before September 8th at 1 PM.  
+Back on the main page (or the tab that contains the directory listing), you should now have a folder called `GEOS669_geodesy`. Go in this folder, under `labs` click on `Lab01` and open the lab called `GEOS669-Lab1.ipynb`. Follow the instructions and submit the assigment on Canvas before September 8th at 1 PM.  

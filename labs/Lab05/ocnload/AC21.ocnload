@@ -1,0 +1,32 @@
+$$ END HEADER
+  AC21
+$$ tpxo72atlas ID: 2020-09-05 17:18:35
+$$ computed by /gps/GIPSY/uaf_processing/calc_oceanload.tpxo72atlas_CM at UAF using SPOTL v3.3.0.2
+$$ tidal components:  m2 s2 n2 k2 k1 o1 p1 q1 mf mm ssa
+$$
+$$ non Ssa components: /usr/local/spotl/tidmod/*.osu.tpxo72atlas.2011
+$$ Ssa component: /usr/local/spotl/tidmod/ssa.ray.equil.2004
+$$ regional models used:
+$$    osu.bering.2010
+$$    osu.hawaii.2010
+$$    sfbay.1984
+$$    osu.usawest.2010
+$$    cortez.1976
+$$    osu.gulfmex.2010
+$$    osu.hudson.2010
+$$    osu.namereast.2010
+$$    osu.patagonia.2010
+$$    osu.amazon.2010
+$$    esr.cats.2008
+$$    osu.okhotsk.2010
+$$    esr.aotim5.2004
+$$    esr.cats.2008
+$$ AC21                     lon/lat:  -159.127700999 55.921091469
+ .03679 .01434 .00693 .00391 .03381 .02275 .01100 .00428 .00198 .00109 .00043
+ .00789 .00225 .00196 .00063 .00497 .00370 .00155 .00074 .00013 .00014 .00009
+ .00892 .00359 .00218 .00098 .00866 .00562 .00273 .00110 .00058 .00020 .00002
+  123.2  156.7  104.4  149.9  115.2  102.7  112.1   96.2   -2.9   -7.1    0.0
+  112.8  141.8   82.0  136.6   41.1   27.2   36.2   20.9 -147.7 -128.2 -180.0
+  -26.9  -11.0  -47.1  -17.2  -79.5  -92.3  -81.9  -92.7   -8.1  -32.5 -180.0
+$$
+

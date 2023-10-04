@@ -26,7 +26,7 @@ for s in ac13 ac21 ; do
   # 2) saves in gipsy format, and allows high rate processing
   # this step can be ommitted once done (unless the data need re-editing)
   if [ ! -f "${s}.dr" ]; then
-	  rnxEditGde.py -dataFile ${s}${doy}0.21o \
+	  rnxEditGde.py -dataFile ${s}${doy}0.21d \
 	  -staDb ChignikDb \
 	  -gde kinematic_tree/gdeGNSSstation.tree \
 	  -stnTreePrefix \
